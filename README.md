@@ -1,3 +1,3 @@
 # presentaciones-equipo
 
-Java es dolor
+- Sebastian: Arriba el Temach
