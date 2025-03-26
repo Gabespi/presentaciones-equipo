@@ -1,4 +1,4 @@
 # presentaciones-equipo
 
 Java es dolor
-Soy Gabriel,
+Soy Gabriel.
